@@ -5,18 +5,13 @@ from PIL import Image
 import spacy
 import numpy as np
 from nltk.corpus import stopwords
-import nltk
+import nltk_download_utils
 from nltk.wsd import lesk
 import pandas as pd
 
 
 # spaCyの英語モデルをロード
 nlp = spacy.load("en_core_web_sm")
-
-# データのダウンロード
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
 
 # ストップワードのリストを取得
 stop_words = set(stopwords.words('english'))
