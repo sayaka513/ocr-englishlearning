@@ -1,3 +1,2 @@
 tesseract-ocr
-freeglut3-dev
 libopencv-dev
