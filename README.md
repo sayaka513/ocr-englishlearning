@@ -1,4 +1,4 @@
-# OCR-englishlearning
+# OCR-Englishlearning App
 English Learning app using pytesseract and streamlit<br>
 <br>
 <a href="https://ocr-englishlearning-tlpyxbwodxhbjzsn8gvizy.streamlit.app/">Try my App!</a>
