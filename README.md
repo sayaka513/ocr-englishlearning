@@ -3,7 +3,8 @@ English Learning app using pytesseract and streamlit<br>
 <br>
 <a href="https://ocr-englishlearning-tlpyxbwodxhbjzsn8gvizy.streamlit.app/">Try my App!</a>
 <br>
-This is an application for creating a list of unknown words from English text.
+An application for creating a list of unknown words from English text.<br>
+This is useful when you read an English text on paper and there are several words you don't understand.<br>
 <br>
 ① Upload an image containing English text.<br>
 ② Use the left-hand bar to adjust the image so that it is horizontal.<br>
@@ -19,4 +20,4 @@ Using spaCy:<br>
 ・Exclude proper nouns and stop words from the selectable words.<br>
 ・The word list is designed to output the lemma and the context-specific part of speech and meaning of each word.<br>
 <br>
-Does not support handwritten characters yet...
+In the future, I aim to support handwritten characters and Japanese OCR.
